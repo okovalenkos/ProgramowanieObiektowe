@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramowanieObiektowe1", "ProgramowanieObiektowe1\ProgramowanieObiektowe1.csproj", "{B47632FB-F15B-4951-835A-98DAF88AF494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramowanieObiektowe", "ProgramowanieObiektowe1\ProgramowanieObiektowe.csproj", "{B47632FB-F15B-4951-835A-98DAF88AF494}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{8B338D67-D674-4AC1-8C65-34257196C833}"
 EndProject
